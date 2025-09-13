@@ -33,7 +33,7 @@ const Navbar = () => {
       className="bg-white/95 backdrop-blur-md shadow-lg sticky top-0 z-50 border-b border-gray-100"
     >
       <div className="container-custom">
-        <div className="flex justify-between items-center py-4">
+        <div className="flex justify-between items-center py-4 px-4 md:px-0">
           {/* Logo */}
           <motion.div
             whileHover={{ scale: 1.05 }}
