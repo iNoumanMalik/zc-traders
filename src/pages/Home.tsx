@@ -1,6 +1,5 @@
-import React from 'react';
 import { motion } from 'framer-motion';
-import { ArrowRight, Star, Users, Globe, Award, CheckCircle, Sparkles } from 'lucide-react';
+import { ArrowRight, Star, Users, Globe, Award, CheckCircle } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const Home = () => {
