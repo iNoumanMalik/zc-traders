@@ -1,6 +1,5 @@
-import React from 'react';
 import { motion } from 'framer-motion';
-import { Users, Globe, Award, Target, Eye, Heart, CheckCircle, Star, Shield, Zap, Clock, Trophy, MapPin, Building2, Handshake, Lightbulb } from 'lucide-react';
+import { Users, Globe, Award, Target, Eye, Heart, Star, Shield, Zap, Clock, Trophy, MapPin, Building2, Handshake, Lightbulb } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const About = () => {

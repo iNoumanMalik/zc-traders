@@ -1,6 +1,6 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { motion } from 'framer-motion';
-import { Search, Filter, Star, ArrowRight, Package, Zap, Shield, Globe, Eye, Heart, Award, Gem, Cpu, Palette, Beaker, Trophy, Cog } from 'lucide-react';
+import { Search, Star, ArrowRight, Package, Zap, Shield, Globe, Eye, Heart, Gem, Cpu, Palette, Beaker, Trophy, Cog } from 'lucide-react';
 
 const Products = () => {
   const [searchTerm, setSearchTerm] = useState('');
