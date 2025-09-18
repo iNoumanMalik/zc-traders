@@ -580,7 +580,7 @@ const Home = () => {
                   to="/products"
                   className="btn-outline border-white text-white hover:bg-white hover:text-forest-dark"
                 >
-                  Browse Collections
+                  Talk with experts
                 </Link>
               </motion.div>
             </div>
