@@ -179,7 +179,7 @@ const Home = () => {
           <div className="absolute inset-0 bg-gradient-to-br from-forest-dark via-transparent to-forest-mid"></div>
         </div>
 
-        <div className="relative container-custom section-padding">
+        <div className="relative container-custom py-6 px-4 sm:px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 lg:gap-16 items-center min-h-[80vh]">
             <motion.div
               initial={{ opacity: 0, x: -50 }}

@@ -77,7 +77,7 @@ const Navbar = () => {
                 to="/contact" 
                 className="btn-primary ml-4"
               >
-                Get Quote
+                Talk to Us
               </Link>
             </motion.div>
           </div>
