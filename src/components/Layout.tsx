@@ -18,7 +18,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ duration: 0.6, ease: 'easeOut' }}
-        className="flex-grow pt-16 lg:pt-20"
+        className="flex-grow"
       >
         {children}
       </motion.main>

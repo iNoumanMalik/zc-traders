@@ -28,7 +28,7 @@ const Footer = () => {
 
   return (
     <footer className="bg-forest-deep text-white">
-      <div className="container-custom section-padding">
+      <div className="container-custom mt-8 py-4 section-padding">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12">
           {/* Company Info */}
           <motion.div
@@ -51,7 +51,7 @@ const Footer = () => {
               We connect businesses with hard-to-find items and reliable suppliers.
             </p>
             
-            <motion.div
+            {/* <motion.div
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
@@ -61,7 +61,7 @@ const Footer = () => {
               >
                 Get Started
               </Link>
-            </motion.div>
+            </motion.div> */}
           </motion.div>
 
           {/* Quick Links */}
